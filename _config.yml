@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Alfonso Pérez"
   avatar           : "/assets/images/monkeys.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : "Robonia"
+  #bio              : ""
+  #location         : "Robonia"
   email            :
   links:
     - label: "Email"
